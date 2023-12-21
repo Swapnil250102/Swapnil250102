@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil Mishra.
 - 👀 I’m interested in Web Dev and Bot designing. 
-- 🌱 I’m currently learning Reactjs and UI/UX (Figma).
+- 🌱 I’m currently learning Backend.
 - 📫 How to reach me swapnilm250102@gmail.com.
 
 <!---
